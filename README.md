@@ -1,4 +1,5 @@
 # myDocker_tests
+(author: Christian Boullosa)
 ....Docker related exercises to test Docker image for Python:
 
 ## High level instructions:
